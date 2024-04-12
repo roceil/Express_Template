@@ -1,4 +1,9 @@
-# 忽略 dist 目錄
+
 dist/
 
+node_modules
+
+tsconfig.json
+
+.vscode/
 
